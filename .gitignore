@@ -1,0 +1,10 @@
+*.iml
+.idea/
+.settings/
+*/target/**
+**/META-INF/
+
+
+.classpath
+.project
+.settings
